@@ -3,3 +3,6 @@ body {
     text-align: center;
     font-family: "Arial";
 }
+.container {
+    border: 10 10 10 10;
+}
